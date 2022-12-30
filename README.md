@@ -11,6 +11,6 @@ Right-to make the snake move right
 Left-to make the snake move left
 
 ## Screenshots
-![Title screen] (https://github.com/coolmaark/Snake-Game/blob/main/Screenshots/GameStart.png)
+![Title screen](https://raw.githubusercontent.com/coolmaark/Snake-Game/main/Screenshots/GameOver.png)
 
-![Play screen] (https://github.com/coolmaark/Snake-Game/blob/main/Screenshots/GameOver.png)
+![Play screen](https://raw.githubusercontent.com/coolmaark/Snake-Game/main/Screenshots/GameOver.png)
